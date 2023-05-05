@@ -9,7 +9,7 @@ The goal of this challenge is to strengthen my understanding of Data Structures 
 ## Rules
 
 - Solve minimum one DSA problem every day for the next 242 days.
-- Share progress daily on GitHub and [Twitter](https://twitter.com/yourtwitterhandle) using the hashtag #242DaysOfDSA.
+- Share progress daily on GitHub.
 - Practice using programming languages like Python, Java, or C++.
 - Learn a new concept related to DSA every week.
 
